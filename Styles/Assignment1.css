@@ -48,3 +48,60 @@ nav .menu a{
     color: #000000;
     text-decoration: none;
 }
+#banner {
+    /* border: 1px solid red; */
+    background-image: url(../assets/hero-bg.png);
+    max-width: 1600px;
+    height: 674px;
+    align-items: center;
+    display: flex;
+    background-size: cover;
+ }
+  #banner .banner-content h3 {
+    background-color: #469165;
+    max-width: 229px;
+    max-height: 35px;
+    margin-top: 115.15;
+    padding: 8px 12px 8px 34px;
+    border-radius: 100px;
+    font-size: 16px;
+    font-weight: 300px;
+    color: #469165;
+    background-color: #FFFFFF;
+ } 
+#banner .banner-content h1{
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    color: #FFFFFF;
+    padding: 6px 12px;
+    display: inline-block;
+}
+#banner .banner-content h1 span{
+    color: #30B868;
+}
+#banner .banner-content p{
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 24px;
+    margin-bottom: 32px;
+}
+.btn1{
+    font-size: 15px;
+    gap: 15px;
+    display: flex;
+    text-decoration: none;
+    padding: 12px 22px;
+    border-radius: 6px;
+    background: #469165;
+    color: #FFFFFF;
+}
+.btn2{
+    font-size: 15px;
+    gap: 15px;
+    display: flex;
+    text-decoration: none;
+    padding: 12px 22px;
+    
+}

@@ -161,3 +161,43 @@ nav .menu a{
     color: #627382;
     margin-bottom: 69.5px;
 }
+#brain {
+    /* border: 1px solid red; */
+    margin: 0px 120px 120px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+    
+  
+#brain .brain-content1{
+    max-width: 700px;
+}
+#brain .brain-content1 h4{
+    font-size: 16px;
+    color: #469165;
+    margin-bottom: 16px;
+}
+#brain .brain-content1 h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+#brain .brain-content1 p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+#brain .brain-content1 .item{
+    font-size: 16px;
+    line-height: 20px;
+    color: #001931;
+    margin-bottom: 16px;
+    list-style: none;
+}
+#brain .brain-image img{
+    max-width: 600px;
+    vertical-align: middle;
+}
